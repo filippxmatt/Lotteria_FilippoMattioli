@@ -18,7 +18,7 @@ public class Lotteria {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n = 100;
+        int n = 5;
         Estrazione e = new Estrazione(n);
         
         System.out.println("INIZIO DEL GIOCOOO: ");
